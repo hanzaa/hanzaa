@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanzaa
-- 👀 I’m interested in data related things
-- 🌱 I’m currently learning python and c++
+- 👀 I’m interested in machine
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
